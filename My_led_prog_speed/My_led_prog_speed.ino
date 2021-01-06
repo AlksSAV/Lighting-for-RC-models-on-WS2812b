@@ -1,6 +1,6 @@
-//
+// Copyright © 2020 McKey All right reserved 
 // Code by McKey  Jan 2021    https://youtu.be/oXqDV9sT4F8
-// RC light v1.1
+// RC light v1.1.1
 // 
 // 
 #include <FastLED.h>
