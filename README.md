@@ -5,4 +5,6 @@ An example of the work on my channel https://youtu.be/oXqDV9sT4F8
 
 Проект  освещения и некоторых эффектов освещения для RC модели.
 Для проекта понадобится arduino nano и лента на базе WS2812b.
-Пример работы у меня на канале https://youtu.be/oXqDV9sT4F8
+Пример работы у меня на канале https://youtu.be/oXqDV9sT4F8 
+
+![Screenshot](screen.png)
